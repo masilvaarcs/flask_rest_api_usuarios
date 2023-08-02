@@ -160,7 +160,7 @@ curl -X DELETE http://localhost:5000/users/9
 1. Clone o repositório para o seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/flask_rest_api_usuarios.git
+git clone https://github.com/masilvaarcs/flask_rest_api_usuarios.git
 ```
 
 2. Navegue até o diretório do projeto:
