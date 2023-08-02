@@ -26,56 +26,16 @@ curl http://localhost:5000/users
 
 ```json
 [
-  {
-    "id": 1,
-    "name": "Tony Stark",
-    "age": 35
-  },
-  {
-    "id": 2,
-    "name": "Steve Rogers",
-    "age": 100
-  },
-  {
-    "id": 3,
-    "name": "Natasha Romanoff",
-    "age": 32
-  },
-  {
-    "id": 4,
-    "name": "Bruce Banner",
-    "age": 45
-  },
-  {
-    "id": 5,
-    "name": "Clint Barton",
-    "age": 40
-  },
-  {
-    "id": 6,
-    "name": "Thor Odinson",
-    "age": 1500
-  },
-  {
-    "id": 7,
-    "name": "Wanda Maximoff",
-    "age": 29
-  },
-  {
-    "id": 8,
-    "name": "Scott Lang",
-    "age": 40
-  },
-  {
-    "id": 9,
-    "name": "Peter Parker",
-    "age": 23
-  },
-  {
-    "id": 10,
-    "name": "Carol Danvers",
-    "age": 35
-  }
+  {"id": 1, "name": "Tony Stark", "age": 35},
+  {"id": 2, "name": "Steve Rogers", "age": 100},
+  {"id": 3, "name": "Natasha Romanoff", "age": 32},
+  {"id": 4, "name": "Bruce Banner", "age": 45},
+  {"id": 5, "name": "Clint Barton", "age": 40},
+  {"id": 6, "name": "Thor Odinson", "age": 1500},
+  {"id": 7, "name": "Wanda Maximoff", "age": 29},
+  {"id": 8, "name": "Scott Lang", "age": 40},
+  {"id": 9, "name": "Peter Parker", "age": 23},
+  {"id": 10, "name": "Carol Danvers", "age": 35}
 ]
 ```
 
